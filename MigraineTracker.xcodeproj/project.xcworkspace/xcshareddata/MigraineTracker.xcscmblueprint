@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "605B80D9536EE604087CD70FB4EF1E1B8DC10289",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F5A1C3F7B4F5F7E4A84DA6FE073DDDD489A6926" : 0,
+    "605B80D9536EE604087CD70FB4EF1E1B8DC10289" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39C93608-D162-4E52-A1CE-A387651B3316",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F5A1C3F7B4F5F7E4A84DA6FE073DDDD489A6926" : "MigraineTracker\/MigraineTracker\/",
+    "605B80D9536EE604087CD70FB4EF1E1B8DC10289" : "MigraineTracker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MigraineTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MigraineTracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/klh84\/CEN4053Group1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "605B80D9536EE604087CD70FB4EF1E1B8DC10289"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/klh84\/CEN4053Group1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F5A1C3F7B4F5F7E4A84DA6FE073DDDD489A6926"
+    }
+  ]
+}
