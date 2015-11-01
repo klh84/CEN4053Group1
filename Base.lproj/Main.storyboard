@@ -266,7 +266,6 @@
         <!--Features-->
         <scene sceneID="ses-a7-kxl">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Eio-xM-0aM" sceneMemberID="firstResponder"/>
                 <viewController id="PXs-5t-Btr" userLabel="Features" customClass="FirstViewController" customModule="MigraineTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="48H-FK-hJ1"/>
@@ -404,13 +403,13 @@
                     <tabBarItem key="tabBarItem" title="Features" image="second" id="XAk-xl-9on"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Eio-xM-0aM" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1302" y="-769"/>
         </scene>
         <!--Features-->
         <scene sceneID="HDh-dt-Czh">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="tC3-dD-VEj" sceneMemberID="firstResponder"/>
                 <viewController id="LM9-xY-xQ1" userLabel="Features" customClass="FirstViewController" customModule="MigraineTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="A6j-qw-WiK"/>
@@ -456,13 +455,13 @@
                     <tabBarItem key="tabBarItem" title="Notes" image="first" id="VnG-oW-ekx"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tC3-dD-VEj" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-413" y="43"/>
         </scene>
         <!--Questions-->
         <scene sceneID="qPu-97-tyO">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="xTy-eh-IJa" sceneMemberID="firstResponder"/>
                 <viewController id="KEl-Yl-3rF" userLabel="Questions" customClass="FirstViewController" customModule="MigraineTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="hNk-FY-L1j"/>
@@ -518,13 +517,13 @@
                     <tabBarItem key="tabBarItem" title="Questions" image="first" id="w64-PQ-iCp"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xTy-eh-IJa" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="39" y="63"/>
         </scene>
         <!--Migraine List-->
         <scene sceneID="DBd-RH-X7z">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="UuD-2b-1Wz" sceneMemberID="firstResponder"/>
                 <viewController id="1xp-By-6eH" userLabel="Migraine List" customClass="FirstViewController" customModule="MigraineTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Ou4-Hm-xP2"/>
@@ -568,13 +567,13 @@
                     <navigationItem key="navigationItem" id="Lav-Ue-6Vi"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UuD-2b-1Wz" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-697" y="-118"/>
         </scene>
         <!--Migraine List-->
         <scene sceneID="Mbo-88-mB1">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Wfl-sb-91n" sceneMemberID="firstResponder"/>
                 <viewController id="aL4-Og-VAq" userLabel="Migraine List" customClass="FirstViewController" customModule="MigraineTracker" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="63P-gK-7NC"/>
@@ -614,6 +613,7 @@
                     <navigationItem key="navigationItem" id="cg4-Z3-8yE"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Wfl-sb-91n" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-730" y="-759"/>
         </scene>
@@ -923,6 +923,6 @@
         <image name="second" width="30" height="30"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="mea-Jq-AsY"/>
+        <segue reference="Kh5-F0-tGU"/>
     </inferredMetricsTieBreakers>
 </document>
